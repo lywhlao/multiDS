@@ -1,7 +1,7 @@
 # 多数据源中间件
 
 ### 1. 配置
-#### 1.1 添加依赖
+#### 1.1 添加依赖(暂时不可用，等我上传到maven库)
 ```
 <dependency>
     <groupId>com.netease.mail.act</groupId>
