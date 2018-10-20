@@ -1,4 +1,5 @@
 # 多数据源中间件
+这是我的blog，https://blog.csdn.net/laojiaqi/article/details/78964862
 
 ### 1. 配置
 #### 1.1 添加依赖(暂时不可用，等我上传到maven库)
